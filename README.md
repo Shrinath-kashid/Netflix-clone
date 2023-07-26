@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://static.vecteezy.com/system/resources/previews/022/100/806/original/netflix-logo-transparent-free-png.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Netflix-clone</h3>
