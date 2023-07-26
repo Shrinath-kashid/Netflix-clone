@@ -53,7 +53,10 @@ npm start , yarn start
 running project.
 -----------------------------------------
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+With our on-demand OTT platform, you can broadcast movies, TV shows, web series,
+and more while charging the users a monthly subscription fee.
+
+-----------------------------------------
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
