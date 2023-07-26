@@ -8,8 +8,7 @@
 <h3 align="center">Netflix-clone</h3>
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
+<p align="center"> Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
 </p>
 
 ## 📝 Table of Contents
@@ -21,42 +20,38 @@
 - [TODO](../TODO.md)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+The objective of a Netflix clone is to provide quality video content and a seamless user experience. And their business objective is to increase revenue stream and visibility.The Netflix clone project's primary objective is to offer users a familiar and enjoyable streaming experience similar to Netflix. It seeks to deliver seamless navigation, personalized content recommendations, and a user-friendly interface that makes discovering and watching movies and shows easy and engaging. By replicating the success of Netflix while possibly incorporating unique features and improvements, the project aims to cater to entertainment enthusiasts worldwide and become a go-to platform for their viewing pleasure.
 
-
+![Screenshot (701)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/72b1755b-590f-49fd-b989-e10b144d6828)
 ![Screenshot (698)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/e6183891-39fa-4b1f-b134-87cbd40a2340)
+![Screenshot (702)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/7854fa21-428f-4c86-bab3-4ea4b9833c4b)
+![Screenshot (703)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/e307c0d0-ce9f-427c-93b3-8abd631dd748)
+![Screenshot (700)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/8196f258-c19c-42e5-8a1c-4e4eeab5977c)
+![Screenshot (704)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/feb4dbe6-f0c0-4dad-b9db-114c85eaacf9)
+![my list image](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/1acdc6a0-ef0b-4862-bf1e-b269281d18dd)
+![Screenshot (698)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/29ab91dd-389d-4ef7-a894-b73f8cf298f1)
+![Screenshot (699)](https://github.com/Shrinath-kashid/Netflix-clone/assets/136973641/6cf546ed-fb2b-429e-8222-ee75560c1cdb)
 
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+---------------------------------------------
 ### Prerequisites
-What things you need to install the software and how to install them.
 
+npm install ,
+netflix-api key ,
+yarn add , 
+install react dependancy ,
+install node dependancy,
 ```
-Give examples
-```
-
+----------------------------------------
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-```
-
-
+npx craete-react-app netlfix-clone
+cd netlfix-ui
+npm start , yarn start
+cd netlfix-api
+npm start , yarn start
+running project.
+-----------------------------------------
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
@@ -64,10 +59,10 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [MongoDB](www.mongodb.com/) - Database
+- [Express](expressjs.com/) - Server Framework
+- [reactJs](reactjs.org/) - Web Framework
+- [NodeJs](nodejs.org/en/) - Server Environment
 
  [TODO](../TODO.md) --------
 
